@@ -54,3 +54,6 @@ Secure API Gateway is a robust intermediary application that provides security a
    ```bash
    git clone https://github.com/ankur-JA/ShieldAPI.git
    cd ShieldAPI
+## License
+
+The ShieldAPI is licensed under the [MIT License](https://opensource.org/licenses/MIT).
