@@ -52,4 +52,5 @@ Secure API Gateway is a robust intermediary application that provides security a
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone # Secure API Gateway with Rate Limiting and JWT Authentication
+   git clone https://github.com/ankur-JA/ShieldAPI.git
+   cd ShieldAPI
